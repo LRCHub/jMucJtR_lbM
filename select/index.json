@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "向いて / feat.相羽ういは",
+  "base_artist": "hisui",
+  "createdAt": "2026-02-28T10:00:13.138567Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "向いて (feat. 初音ミク)",
+      "artist": "hisui",
+      "has_synced": false,
+      "path": "select/pl_01_向いて_(feat._初音ミク)_hisui.txt"
+    }
+  ]
+}
